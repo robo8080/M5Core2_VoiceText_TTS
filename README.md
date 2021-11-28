@@ -22,7 +22,7 @@ esp32_text_to_speech <https://github.com/kghrlabo/esp32_text_to_speech><br>
 APIキーは。[ここ](https://cloud.voicetext.jp/webapi/ "Title")の「無料利用登録」から申請すれば、メールで送られて来ます。<br>
 
 ### 使い方 ###
-＊ M5Stack Core2のボタンA,B,Cを押すと、それぞれ異なった声でしゃべります。　<br>
+* M5Stack Core2のボタンA,B,Cを押すと、それぞれ異なった声でしゃべります。　<br>
 
 
 <br><br>
